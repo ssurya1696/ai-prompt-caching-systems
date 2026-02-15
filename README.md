@@ -24,3 +24,6 @@ Exact-match SHA-256 hashing based caching layer.
 
 ### 2. Semantic Prompt Cache
 Embedding similarity-based caching layer that reuses LLM responses for semantically similar prompts using cosine similarity thresholds.
+
+### 3. RAG-Aware Prompt Cache
+Context-safe caching layer that optimizes Retrieval-Augmented Generation by caching retrieval results and binding generation reuse to document-set hashing.
