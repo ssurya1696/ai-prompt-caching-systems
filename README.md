@@ -14,3 +14,10 @@ This leads to:
 
 This repository explores multiple caching architectures 
 to reduce cost and improve performance in AI systems.
+
+---
+
+## Implemented Architectures
+
+### 1. Deterministic Prompt Cache
+Exact-match SHA-256 hashing based caching layer.
